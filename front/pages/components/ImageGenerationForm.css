@@ -1,0 +1,37 @@
+/* Transition universelle */
+.transition {
+    transition: all 0.3s ease;
+  }
+  
+  /* Style pour les inputs */
+  .input-custom {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #ffffff; 
+    transition: all 0.3s ease;
+  }
+  
+  .input-custom:hover {
+    background-color: #ffffff;
+  }
+  
+  /* Style pour les boutons personnalisés */
+  .text-center {
+    text-align: center; /* Aligner le texte au centre */
+  }
+  
+  /* Style pour le titre H1 */
+  h1.text-center {
+    font-size: 2em; /* Taille de la police pour le titre */
+    color: #333; /* Couleur du texte pour le titre */
+    margin-bottom: 0.5em; /* Espacement sous le titre */
+  }
+  
+  /* Style pour le paragraphe */
+  p.text-center {
+    font-size: 1em; /* Taille de la police pour le paragraphe */
+    color: #8d8986; /* Couleur du texte pour le paragraphe */
+    margin-top: 0.5em; /* Espacement au-dessus du paragraphe */
+  }
+  
